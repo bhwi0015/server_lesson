@@ -226,6 +226,6 @@
   226  git reset
   227  git ls-files --others
   228  history 300
-  229  trash/gizumo{01..19}.md documents 
-  230  trash/gizumo{41..50}.md documents
+  229  mv trash/gizumo{01..19}.md documents 
+  230  mv trash/gizumo{41..50}.md documents
 
